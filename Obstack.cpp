@@ -2,13 +2,16 @@
 using namespace std;
 class Obstack{
 public:
-  void pop(){
+  void pop()
+  {
     cout<<"sad";
   }
   int push();
    int peek();
 };
-int main(){
+int main()
+{
   Obstack b;
   b.pop();
-  return 0;}
+  return 0;
+}
