@@ -14,5 +14,6 @@ int main()
 {
   Obstack b;
   b.pop();
+  cout<<"Pop Function";
   return 0;
 }
