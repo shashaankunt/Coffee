@@ -5,6 +5,7 @@ public:
   void pop()
   {
     cout<<"sad";
+    cout<<"Pop operations";
   }
   int push();
    int peek();
