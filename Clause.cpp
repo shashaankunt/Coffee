@@ -22,7 +22,8 @@ int main()
 {
 int str1[2]={1,2};
 int str3[2]={1,2};
-Clause b(10,&str1[0],1,1,&str3[0]);
+Clause b(10,&str1[0],1,1,&str3[0]);4
+  cout<<"Length of the clause";
   cout<<b.len;
   /* code */
   return 0;
