@@ -8,12 +8,8 @@ private:
    int abc=0;
   IntList(int head) ;
   IntList( int X,  int Xs) ;
-
-
   static IntList cons(int X,int Xs);
-
   static IntList app(int y ,int Ys);
-
   static int toInts(int Xs);
   static int len(int Xs);
 
