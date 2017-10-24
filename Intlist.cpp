@@ -16,7 +16,6 @@ private:
 
   static int toInts(int Xs);
   static int len(int Xs);
-
 };
 int main()
 {
