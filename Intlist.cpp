@@ -12,7 +12,6 @@ private:
   static IntList app(int y ,int Ys);
   static int toInts(int Xs);
   static int len(int Xs);
-
 };
 int main()
 {
