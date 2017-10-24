@@ -1,7 +1,7 @@
 
 #include <bits/stdc++.h>
 using namespace std;
-class IntList {
+class IntList{
 private:
    int head=0;
    int tail=0;
