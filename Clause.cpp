@@ -29,6 +29,5 @@ Clause b(10,&str1[0],1,1,&str3[0]);4
   /* code */
   cin>>x;
   return 0;
-
 }
 
