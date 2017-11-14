@@ -28,8 +28,8 @@ class Clause {
 public class ClauseTest{
 	public static void main(String args[])
 	{
-		int [] ab={1,2,4};
-		int [] bc={6,7,9};
+		int [] ab={6,7,9};
+		int [] bc={1,2,4};
 		Clause cl=new Clause(10,ab, 7,3 ,bc);
 		
 	}
