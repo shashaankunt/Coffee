@@ -23,10 +23,10 @@ public class GeneriClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ObStack<String> ob=new ObStack<String>();
-		ob.push("insert 1");
-		ob.push("insert 2");
-		ob.push("insert 3");
-		ob.push("insert 4");
+		ob.push(" 1");
+		ob.push(" 2");
+		ob.push(" 3");
+		ob.push("4");
 		System.out.println("Top "+ob.peek());
 		ob.pop();
         System.out.println("Top After Pop "+ob.peek());
